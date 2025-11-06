@@ -20,7 +20,7 @@ Book REST API — это простое и функциональное веб-�
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/ВАШ_USERNAME/book-rest-api.git
+    git clone https://github.com/mulikoo/book-rest-api.git
     cd book-rest-api
     ```
 
