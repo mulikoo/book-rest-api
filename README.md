@@ -45,3 +45,4 @@ API доступно по базовому URL: `http://localhost:8080/api/books
 **Запрос:**
 ```http
 GET /api/books
+DELETE /api/books/1
